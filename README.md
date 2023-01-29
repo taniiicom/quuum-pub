@@ -1,6 +1,7 @@
 # [Quuum.com](https://quuum.com) の一部オープンソース化プロジェクト
 2022年11月公開の個人開発WEBアプリ [**#耐久メーカー Quuum**](https://quuum.com) の一部オープンソース化プロジェクトのリポジトリです.  
 Quuum は, PHP&Laravel で作られており, 現在一部のファイルをオープンソース化しています.  
+元々, Private リポジトリで作ってきたファイルの一部を, このリポジトリにもってきています.  
 (\*すべてのファイルではないです><;)  
 License は, MIT License にしています.  
 ## [Quuum.com](https://quuum.com) ってどんなアプリ??
