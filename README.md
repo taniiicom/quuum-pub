@@ -15,9 +15,13 @@ License は, MIT License にしています.
   - Vite
 - MySQL/MariaDB
 - JavaScript
-- SCSS, CSS, HTML
+- SCSS, CSS, Markdown, HTML Living Standard
+- Regex
 - Heroku
 - Docker
+  - Node.js
+- Material Design
+- YouTube Data API, YouTube Player API
   
 # quuum-pub
 Quuum.com / Open source some code of Quuum.com (*not full source code)
